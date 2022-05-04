@@ -47,7 +47,7 @@ class Login
 			public void actionPerformed(ActionEvent ae){
 				String user = userText.getText();
 				String pass = passText.getText();
-				if(user.equals("mayur") && pass.equals("mayur@2402"))
+				if(user.equals("sagar") && pass.equals("sagar@4040"))
 				{
 					f.setVisible(false);
 					new AcceptFolder();
